@@ -22,15 +22,15 @@ Remediation & Refactoring: Generate "AI Tool Suggestions" that provide developer
 ## Proof of Google AI Usage
 Attach screenshots in a `/proof` folder:
 
-![AI Proof](./proof/screenshot1.png)
+Capture1.PNG
 
 ---
 
 ## Screenshots 
 Add project screenshots:
 
-![Screenshot1](./assets/screenshot1.png)  
-![Screenshot2](./assets/screenshot2.png)
+Capture.PNG
+Capture1.PNG
 
 ---
 
