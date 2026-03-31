@@ -1,5 +1,5 @@
-#Team Name
-##Bits to bytes
+# Team Name
+## Bits to bytes
 # Project Name
 Gemini Security Scanner
 ## Problem Statement
