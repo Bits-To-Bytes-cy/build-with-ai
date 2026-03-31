@@ -22,23 +22,24 @@ Remediation & Refactoring: Generate "AI Tool Suggestions" that provide developer
 ## Proof of Google AI Usage
 Attach screenshots in a `/proof` folder:
 
-Capture1.PNG
+<img width="1302" height="716" alt="Capture" src="https://github.com/user-attachments/assets/49e6c736-2477-408b-aeeb-10f45d2b591d" />
+<img width="1260" height="613" alt="Capture1" src="https://github.com/user-attachments/assets/086653c2-2945-4d61-8868-92817b669bee" />
+
 
 ---
 
 ## Screenshots 
 Add project screenshots:
+<img width="1302" height="716" alt="Capture" src="https://github.com/user-attachments/assets/658f0414-c20d-484f-96cb-650b15c63d23" />
 
-Capture.PNG
-Capture1.PNG
+<img width="1260" height="613" alt="Capture1" src="https://github.com/user-attachments/assets/9de708d5-a626-4169-ae53-cb34d8cdc826" />
+
 
 ---
 
 ## Demo Video
-Upload your demo video to Google Drive and paste the shareable link here(max 3 minutes).
-[Watch Demo](#)
 
----
+https://drive.google.com/file/d/1p6zGcbsrr0s1UQu9UN72btcdPMAVvM2Z/view?usp=sharing
 
 ## Installation Steps
 
